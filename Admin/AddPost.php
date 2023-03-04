@@ -34,6 +34,15 @@ require_once 'Header.php';
 										<input class="form-control" maxlength="20" name="defaultconfig-2" id="defaultconfig-2" type="text" placeholder="Type Something..">
 									</div>
 								</div>
+
+								<div class="row mb-3">
+									<div class="col-lg-3">
+										<label for="defaultconfig-2" class="col-form-label">Image</label>
+									</div>
+									<div class="col-lg-8">
+										<input class="form-control" maxlength="20" name="defaultconfig-2" id="defaultconfig-2" type="file" placeholder="Type Something..">
+									</div>
+								</div>
 								
 								<div class="row">
 									<div class="col-lg-3">

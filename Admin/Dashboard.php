@@ -26,7 +26,7 @@
                 <div class="card">
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-baseline">
-                      <h6 class="card-title mb-0">New Customers</h6>
+                      <h6 class="card-title mb-0">Posts</h6>
                       <div class="dropdown mb-2">
                         <a type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="icon-lg text-muted pb-3px" data-feather="more-horizontal"></i>
@@ -61,7 +61,7 @@
                 <div class="card">
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-baseline">
-                      <h6 class="card-title mb-0">New Orders</h6>
+                      <h6 class="card-title mb-0">Users</h6>
                       <div class="dropdown mb-2">
                         <a type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="icon-lg text-muted pb-3px" data-feather="more-horizontal"></i>
@@ -96,7 +96,7 @@
                 <div class="card">
                   <div class="card-body">
                     <div class="d-flex justify-content-between align-items-baseline">
-                      <h6 class="card-title mb-0">Growth</h6>
+                      <h6 class="card-title mb-0">Comments</h6>
                       <div class="dropdown mb-2">
                         <a type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                           <i class="icon-lg text-muted pb-3px" data-feather="more-horizontal"></i>

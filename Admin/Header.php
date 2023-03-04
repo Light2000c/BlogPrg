@@ -63,60 +63,41 @@ License: For each use you must have a valid license purchased only from above li
         <ul class="nav">
           <li class="nav-item nav-category">Main</li>
           <li class="nav-item">
-            <a href="dashboard.html" class="nav-link">
+            <a href="Dashboard.php" class="nav-link">
               <i class="link-icon" data-feather="box"></i>
               <span class="link-title">Dashboard</span>
             </a>
           </li>
           <li class="nav-item nav-category">Posts</li>
-          <!-- <li class="nav-item">
-            <a class="nav-link" data-bs-toggle="collapse" href="#emails" role="button" aria-expanded="false" aria-controls="emails">
-              <i class="link-icon" data-feather="mail"></i>
-              <span class="link-title">Email</span>
-              <i class="link-arrow" data-feather="chevron-down"></i>
-            </a>
-            <div class="collapse" id="emails">
-              <ul class="nav sub-menu">
-                <li class="nav-item">
-                  <a href="pages/email/inbox.html" class="nav-link">Inbox</a>
-                </li>
-                <li class="nav-item">
-                  <a href="pages/email/read.html" class="nav-link">Read</a>
-                </li>
-                <li class="nav-item">
-                  <a href="pages/email/compose.html" class="nav-link">Compose</a>
-                </li>
-              </ul>
-            </div>
-          </li> -->
           <li class="nav-item">
-            <a href="pages/apps/chat.html" class="nav-link">
+            <a href="AddPost.php" class="nav-link">
               <i class="link-icon" data-feather="message-square"></i>
               <span class="link-title">Add Post</span>
             </a>
           </li>
           <li class="nav-item">
-            <a href="pages/apps/calendar.html" class="nav-link">
+            <a href="EditPost.php" class="nav-link">
               <i class="link-icon" data-feather="calendar"></i>
               <span class="link-title">Edit Post</span>
             </a>
           </li>
           <li class="nav-item nav-category">Users</li>
           <li class="nav-item">
-            <a href="pages/apps/calendar.html" class="nav-link">
+            <a href="AddTeamMembers.php" class="nav-link">
               <i class="link-icon" data-feather="calendar"></i>
               <span class="link-title">Add Members</span>
             </a>
           </li>
           <li class="nav-item">
-            <a href="pages/apps/calendar.html" class="nav-link">
-              <i class="link-icon" data-feather="calendar"></i>
+            <a href="TeamsMember.php" class="nav-link">
+              <i class="link-icon" data-feather="message-square"></i>
               <span class="link-title">Team Members</span>
             </a>
           </li>
+          
           <li class="nav-item nav-category">Others</li>
           <li class="nav-item">
-            <a href="pages/apps/calendar.html" class="nav-link">
+            <a href="Settings.php" class="nav-link">
               <i class="link-icon" data-feather="calendar"></i>
               <span class="link-title">Settings</span>
             </a>
